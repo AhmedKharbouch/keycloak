@@ -15,9 +15,10 @@
 > 1/2
 
 >![user1](https://user-images.githubusercontent.com/102327247/207452519-4156a125-dbb1-46bf-94fa-9006ba0f91b9.PNG)
->affectation du role ADMIN et MANAGER au user3
+>affectation du role ADMIN et MANAGER et USER au user3
 
 > 2/2
+
 >![user2](https://user-images.githubusercontent.com/102327247/207452659-f24f9b2a-9a6e-4423-a6c5-b0b2c34ac77f.PNG)
 
 
